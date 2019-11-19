@@ -1,0 +1,31 @@
+body{
+  background:#eae0e0;
+  margin-top: 100px;
+
+}
+
+
+.box{
+
+  background: white;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+  text-align: center;
+  box-shadow: 0 0 7px #6f6969;
+
+}
+
+
+span{
+  color: green;
+}
+img{
+  height: 200px;
+  width: 200px;
+  
+}
+.aboutme{
+  text-align: left;
+}
